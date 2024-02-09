@@ -15,8 +15,7 @@ Python 3.x
 Dependencies: bcrypt, which can be installed using pip install bcrypt
 
 Usage
-Clone the repository: git clone https://github.com/your-username/password-hasher-app.git
-cd password-hasher-app
+Clone the repository,
 
 Install dependencies, run the application.
 
