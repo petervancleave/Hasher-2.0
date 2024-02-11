@@ -3,14 +3,14 @@ Password Hasher With Added Salting
 
 A simple Python application that demonstrates password hashing with salting using the bcrypt library. The application provides a graphical user interface (GUI) built with Tkinter.
 
-Features
+Features - 
 Hash Password: Enter a password, and the application will hash it securely with a random salt using the bcrypt library.
 
 Verify Password: Enter a password and a previously hashed password to verify if they match.
 
 Save Hashed Password: Enter a username, a password, and securely save the hashed password along with the username to a JSON file.
 
-Requirements
+Requirements - 
 Python 3.x
 Dependencies: bcrypt, which can be installed using pip install bcrypt
 
