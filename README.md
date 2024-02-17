@@ -17,7 +17,7 @@ Dependencies: bcrypt, which can be installed using pip install bcrypt
 Usage
 Clone the repository,
 
-Install dependencies, run the application.
+Install dependencies, run the application
 
 
 
