@@ -12,12 +12,12 @@ Save Hashed Password: Enter a username, a password, and securely save the hashed
 
 Requirements - 
 Python 3.x
-Dependencies: bcrypt, which can be installed using pip install bcrypt
+Dependencies: bcrypt, which can be installed using pip install bcrypt.
 
 Usage
 Clone the repository,
 
-Install dependencies, run the application
+Install dependencies, run the application.
 
 
 
